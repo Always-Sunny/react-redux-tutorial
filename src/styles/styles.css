@@ -1,0 +1,42 @@
+#root {
+    font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #4d4d4d;
+    min-width: 550px;
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+
+
+nav {
+    padding-top: 20px;
+}
+
+table {
+
+}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+    padding: 15px;
+}
+
+tr:hover {background-color: #f5f5f5}
+
+a:link {
+    text-decoration: none;
+    color: #BD3F32;
+}
+
+a:visited {
+    color: teal;
+}
+
+a:hover {
+    color: #3f4c6b;
+}
+
+a.active {
+    color: #3f4c6b;
+    font-weight: bold;
+}
